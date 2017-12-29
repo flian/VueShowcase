@@ -1,6 +1,6 @@
 # ifc123
 
-> [ifc行情](www.ifc123.xin )web site soruce code
+> [ifc行情](http://www.ifc123.xin ) web site soruce code
 
 ## Build Setup
 
