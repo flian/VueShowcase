@@ -1,6 +1,6 @@
 <template>
   <div class="ifc_main">
-    hello ifc!!
+   行情
   </div>
 </template>
 

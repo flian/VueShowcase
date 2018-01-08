@@ -4,10 +4,10 @@
       <el-header>
         <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal">
           <el-menu-item index="1">首页</el-menu-item>
-          <el-menu-item index="2">
+          <!--<el-menu-item index="2">
               消息中心
           </el-menu-item>
-          <el-menu-item index="3">论坛</el-menu-item>
+          <el-menu-item index="3">论坛</el-menu-item>-->
         </el-menu>
       </el-header>
       <el-main>
