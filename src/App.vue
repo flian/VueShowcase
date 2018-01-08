@@ -44,7 +44,7 @@ export default {
   color: #fff;
   text-align: center;
   font-weight: 500;
-  margin-top: -8px;
+  margin-top: 30px;
 }
 
 </style>
