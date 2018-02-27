@@ -1,6 +1,6 @@
-# ifc123
+# Vue lean
 
-> [ifc行情](http://www.ifc123.xin ) web site soruce code
+> learn vue
 
 ## Build Setup
 
